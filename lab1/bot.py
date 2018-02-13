@@ -10,6 +10,7 @@ def hi(bot, trigger):
     array = emo.detect_emotion_in_raw_np(trigger)
     array = array.tolist()
     array = [int(i) for i in array]
-    bot.say(str(array))
+    print(str(array))
+    #bot.say(str(array))
     #print(trigger, trigger.nick)
     #bot.say('Hi, ' + trigger.nick)
