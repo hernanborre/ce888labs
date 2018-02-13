@@ -26,11 +26,11 @@ Since due to the nature of the data provided a Scatter Plot would not make any s
 
 #### Current Fleet Bar Plot
 
-![logo](./Current_Fleet_BarPlot_ConsumptionMPG.png.png?raw=true)
+![logo](./Current_Fleet_BarPlot_ConsumptionMPG.png?raw=true)
 
 #### New Fleet Bar Plot
 
-![logo](./New_Fleet_BarPlot_ConsumptionMPG.png.png?raw=true)
+![logo](./New_Fleet_BarPlot_ConsumptionMPG.png?raw=true)
 
 ### Histograms
 
